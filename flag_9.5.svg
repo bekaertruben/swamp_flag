@@ -25,14 +25,13 @@
     </defs>
 
     <rect width="100%" height="100%" fill="black" />
-    <rect width="100%" height="50%" y="50%" fill="red" />
+    <rect width="100%" height="50%" y="50%" fill="#fe0000" />
 
     <g transform="translate(1500 1000) rotate(90) translate(-1500 -1000)">
-        <use href="#d20" fill="red" clip-path="url(#upper_half_d20)" />
+        <use href="#d20" fill="#fe0000" clip-path="url(#upper_half_d20)" />
         <use href="#d20" fill="black" clip-path="url(#lower_half_d20)" />
     </g>
 
-    
     <use href="#dragon" fill="black" transform="translate(1000 150) scale(1.4)" />
-    <use href="#dragon" fill="red" transform="translate(1000 150) scale(1.4)" clip-path="url(#lower_half_dragon)" />
+    <use href="#dragon" fill="#fe0000" transform="translate(1000 150) scale(1.4)" clip-path="url(#lower_half_dragon)" />
 </svg>

@@ -12,7 +12,7 @@
     <rect id="background" width="100%" height="100%" fill="#fe0000" />
     <polygon points="0,2000 3000,0 3000,2000" fill="black" />
 
-    <g transform="translate(400, 200) scale(.8)">
+    <g transform="translate(1500, 1000) scale(.8) translate(-1500, -1000)">
         <use href="#d20" fill="white" />
         <use x="1930" y="960" href="#dragon" fill="black" transform="scale(.65)" />
     </g>

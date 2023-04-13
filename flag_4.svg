@@ -35,7 +35,7 @@
     <rect width="50%" height="100%" fill="#fe0000" />
     <rect x="50%" width="50%" height="100%" fill="black" />
 
-    <use href="#pixel_dragon" fill=""
+    <use href="#pixel_dragon" fill="black"
         x="15%" y="10%" transform="scale(.65)"/>
 
     <use href="#d20" fill="#fe0000"

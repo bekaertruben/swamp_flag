@@ -22,10 +22,10 @@
     </defs>
 
     <rect width="100%" height="100%" fill="white" />
-    <rect width="100%" height="50%" y="50%" fill="red" />
+    <rect width="100%" height="50%" y="50%" fill="#fe0000" />
 
     <g transform="translate(1500 1000) rotate(90) translate(-1500 -1000)">
-        <use href="#d20" fill="red" clip-path="url(#upper_half)" />
+        <use href="#d20" fill="#fe0000" clip-path="url(#upper_half)" />
         <use href="#d20" fill="white" clip-path="url(#lower_half)" />
     </g>
 

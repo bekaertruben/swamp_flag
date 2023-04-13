@@ -32,7 +32,7 @@
     <rect width="50%" height="100%" fill="#fe0000" />
     <rect x="50%" width="50%" height="100%" fill="black" />
 
-    <use href="#dragon" fill=""
+    <use href="#dragon" fill="black"
         x="10%" y="10%" transform="scale(1.15)"/>
 
     <use href="#dice" fill="#fe0000"
