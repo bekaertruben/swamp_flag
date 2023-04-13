@@ -7,7 +7,7 @@ And these are the proposals listed herein:
 
 | ------------------------------------------------------- | ------------------------------------------------------- |
 | - | - |
-| ![](flag_1.svg) |  |
+| ![](flag_1.svg) | ![](flag_albania.svg) |
 | ![](flag_2.0.svg) | ![](flag_2.5.svg) |
 | ![](flag_3.0.svg) | ![](flag_3.5.svg) |
 | ![](flag_4.svg) | ![](flag_5.svg) |
