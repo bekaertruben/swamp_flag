@@ -27,6 +27,8 @@ So here are some more fancy designs.
 ## Quartered flags
 ![](quarter.svg)  
 ![](quarter_d20.svg)  
+![](quarter_suits.svg)  
+![](just_suits.svg)  
 
 # Hexagon Bestagon
 ![](hex_bend.svg)  
