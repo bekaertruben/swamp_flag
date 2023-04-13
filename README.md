@@ -39,4 +39,5 @@ So here are some more fancy designs.
 # Miscellaneous
 ![](negative.svg)  
 ![](silhouette.svg)  
+![](silhouettes.svg)  
 ![](peru.svg)  
