@@ -31,6 +31,7 @@ So here are some more fancy designs.
 ![](just_suits.svg)  
 
 # Hexagon Bestagon
+![](hex_logo.svg)
 ![](hex_bend.svg)  
 ![](hex_nordic.svg)  
 ![](hex_horizontal.svg)  
