@@ -16,5 +16,4 @@
         <use href="#d20" fill="white" />
         <use x="1930" y="960" href="#dragon" fill="black" transform="scale(.65)" />
     </g>
-    
 </svg>
