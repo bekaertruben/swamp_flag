@@ -19,7 +19,7 @@ So here are some more fancy designs.
 ![](michiel.svg)  
 ![](michiel_d20.svg)  
 
-## With a Bend
+## D20 with a Bend
 ![](bend.svg)  
 ![](bend_small_dragon.svg)  
 ![](bend_no_dragon.svg)  
@@ -33,6 +33,7 @@ So here are some more fancy designs.
 ![](hex_nordic.svg)  
 ![](hex_horizontal.svg)  
 
-# Remaining miscellaneous
+# Miscellaneous
 ![](negative.svg)  
 ![](silhouette.svg)  
+![](peru.svg)  
