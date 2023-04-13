@@ -1,17 +1,38 @@
 # SWAMP Flag Proposals
 
 Here's the old flag (reconstructed):
-![](flag_0.svg)
 
-And these are the proposals listed herein:
+![](current.svg)  
 
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| - | - |
-| ![](flag_1.svg) | ![](flag_albania.svg) |
-| ![](flag_2.0.svg) | ![](flag_2.5.svg) |
-| ![](flag_2.10.svg) | ![](flag_michiel.svg) |
-| ![](flag_3.0.svg) | ![](flag_3.5.svg) |
-| ![](flag_4.svg) | ![](flag_5.svg) |
-| ![](flag_6.svg) | ![](flag_7.svg) |
-| ![](flag_8.svg) |  |
-| ![](flag_9.0.svg) | ![](flag_9.5.svg) |
+We can all agree that this needs to change. The simplest new flag would be
+
+![](albania.svg)  
+
+Which, honestly, isn't a bad design. But most of us would like a little more pizazz.
+So here are some more fancy designs.
+
+## With a D20
+![](d20_white.svg)  
+![](d20_outline.svg)  
+
+## Based on Michiel's flag
+![](michiel.svg)  
+![](michiel_d20.svg)  
+
+## With a Bend
+![](bend.svg)  
+![](bend_small_dragon.svg)  
+![](bend_no_dragon.svg)  
+
+## Quartered flags
+![](quarter.svg)  
+![](quarter_d20.svg)  
+
+# Hexagon Bestagon
+![](hex_bend.svg)  
+![](hex_nordic.svg)  
+![](hex_horizontal.svg)  
+
+# Remaining miscellaneous
+![](negative.svg)  
+![](silhouette.svg)  
